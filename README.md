@@ -4,6 +4,6 @@ Membuat tampilan papan catur dengan menggunakan dynamic element dari file .js te
 
 **Preview Hasil**
 
-![preview](assets/preview.png)
+![preview](chess-preview.png)
 
 [Link to Code](index.html)
